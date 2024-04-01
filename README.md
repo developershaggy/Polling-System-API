@@ -39,6 +39,6 @@
    - Endpoint: `localhost:3000/api/options/657c8a886b37f02adae9e2e0/delete`
    - Method: DELETE
 
-6. **Get All Questions**
+6. **View Question**
    - Endpoint: `localhost:3000/api/questions/657ca673f8c01d9006786da4`
    - Method: GET
